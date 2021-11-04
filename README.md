@@ -8,4 +8,6 @@ NIM  : 19.11.2595
 Kelas : 19-IF01
 
 
-LANJUTANNYA UNTUK QUIZ dan Hasil Quiz ADA DISINI https://github.com/hyanuun/FormApp_AndroidIntent
+Lanjutannya untuk QUIZ dan Hasil Quiz ANDROID INTENT - FORM APP : https://github.com/hyanuun/FormApp_AndroidIntent
+
+ANDROID ASYNC TASK - ASYNCAPPS : https://github.com/hyanuun/AsyncApps
